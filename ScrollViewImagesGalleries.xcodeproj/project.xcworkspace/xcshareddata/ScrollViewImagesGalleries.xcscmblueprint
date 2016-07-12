@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DBEBA49FFE6D354A7908EF1A61096B0BBADFC292",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8512C21ECC5A8F757781E2FF28F01EB8E9BA5F1E" : 0,
+    "DBEBA49FFE6D354A7908EF1A61096B0BBADFC292" : 0,
+    "9F7CC8580B708AB49ED1184EBF6BF00FC103F59D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FE80393B-C881-4A9E-A0BF-07191B8DC218",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8512C21ECC5A8F757781E2FF28F01EB8E9BA5F1E" : "Objective-C\/ScrollViewImagesGalleries\/ScrollView-Images\/",
+    "DBEBA49FFE6D354A7908EF1A61096B0BBADFC292" : "Objective-C\/",
+    "9F7CC8580B708AB49ED1184EBF6BF00FC103F59D" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ScrollViewImagesGalleries",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ScrollViewImagesGalleries\/ScrollViewImagesGalleries.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lighthouse-labs\/ScrollView-Images.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8512C21ECC5A8F757781E2FF28F01EB8E9BA5F1E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/github.com\/sleepyUdon\/LighthouseLab",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9F7CC8580B708AB49ED1184EBF6BF00FC103F59D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:sleepyUdon\/Lighthouse-Lab.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DBEBA49FFE6D354A7908EF1A61096B0BBADFC292"
+    }
+  ]
+}
